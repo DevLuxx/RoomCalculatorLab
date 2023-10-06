@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RoomCalculatorLab_Miracle/1.0.0": {
+        "runtime": {
+          "RoomCalculatorLab_Miracle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoomCalculatorLab_Miracle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

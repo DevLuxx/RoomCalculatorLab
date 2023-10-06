@@ -1,0 +1,15 @@
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.csproj.AssemblyReference.cache
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.AssemblyInfo.cs
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\bin\Debug\net6.0\RoomCalculatorLab_Miracle.exe
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\bin\Debug\net6.0\RoomCalculatorLab_Miracle.deps.json
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\bin\Debug\net6.0\RoomCalculatorLab_Miracle.runtimeconfig.json
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\bin\Debug\net6.0\RoomCalculatorLab_Miracle.dll
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\bin\Debug\net6.0\RoomCalculatorLab_Miracle.pdb
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.dll
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\refint\RoomCalculatorLab_Miracle.dll
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.pdb
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\RoomCalculatorLab_Miracle.genruntimeconfig.cache
+C:\Users\me\source\repos\RoomCalculatorLab_Miracle\obj\Debug\net6.0\ref\RoomCalculatorLab_Miracle.dll
